@@ -4,16 +4,20 @@ AI Health Report Explainer is a Streamlit app that uses a pretrained Hugging Fac
 
 ## Files
 
-- `ai_health_report_explainer/app.py`: Streamlit application code.
-- `ai_health_report_explainer/requirements.txt`: Python packages needed to run the app.
-- `ai_health_report_explainer/sample_inputs/example_health_text.txt`: Example text for testing the app.
+- `README.md`: Project description, links, and run instructions.
+- `app.py`: Streamlit application code.
+- `requirements.txt`: Python packages needed to run the app.
+- `sample_inputs/example_health_text.txt`: Example text for testing the app.
+
+## GitHub Repository
+
+Repository link: https://github.com/Yixin-Xue/140.629.final.yixinxue
 
 ## How to Run
 
 Install the requirements, then start the Streamlit app:
 
 ```bash
-cd ai_health_report_explainer
 pip install -r requirements.txt
 streamlit run app.py
 ```
