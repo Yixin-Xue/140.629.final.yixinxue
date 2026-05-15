@@ -24,6 +24,10 @@ The first run may take extra time because the pretrained model `google/flan-t5-b
 
 Paste an English medical or public health text into the text box, choose the target reader and detail level, and click **Analyze Text**. The output is for education and health communication only. It is not a diagnosis, treatment plan, or replacement for professional medical care.
 
+## Deployed App
+
+Streamlit app: https://140629finalyixinxue.streamlit.app/
+
 ## Presentation Video
 
-Video link: TODO
+Video link: https://drive.google.com/file/d/1ucKf1jsxtye34SXOJNTEnqEHdC0d81Tv/view?usp=drive_link
