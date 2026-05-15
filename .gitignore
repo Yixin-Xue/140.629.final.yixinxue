@@ -1,0 +1,6 @@
+.140.629.final/
+.pycache/
+__pycache__/
+*.py[cod]
+.python-version
+.DS_Store
